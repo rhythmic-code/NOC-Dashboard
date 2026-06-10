@@ -111,3 +111,22 @@ Add screenshots of:
 ## Disclaimer
 
 This project is intended for educational and portfolio purposes. Run packet inspection and firewall modification features only on systems and networks you are authorized to manage.
+
+## Screenshots
+
+### Routing Table Analysis
+
+![Routing Table Analysis](screenshots/Routing_Table_analysis.png)
+
+---
+
+### DNS Configuration
+
+![DNS Configuration](screenshots/DNS_config.png)
+
+---
+
+### Connectivity Test
+
+![Connectivity Test](screenshots/Connectivity_test.png)
+
