@@ -116,7 +116,7 @@ This project is intended for educational and portfolio purposes. Run packet insp
 
 ### Routing Table Analysis
 
-![Routing Table Analysis](screenshots/Routing_Table_analysis.png)
+![Routing Table Analysis](screenshots/Routing_table_analysis.png)
 
 ---
 
