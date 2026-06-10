@@ -92,10 +92,9 @@ python app.py
 
 Add screenshots of:
 
-* Dashboard Menu
-* Routing Table Output
-* Packet Inspection
-* Device Discovery Results
+* Connectivity_test
+* DNS_config
+* Routing_Table_analysis
 
 ## Learning Outcomes
 
